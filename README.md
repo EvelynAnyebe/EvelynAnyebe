@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for checking on me 😄!
+Thanks for checking on me! 
 
 - 🔭 I’m currently working on HCT with a brilliat team. We are developing an awesome web application. More on this later
 - ⚡ Here's a fun fact about me: If am not into computer science, I might have been in Business.
