@@ -7,7 +7,9 @@ Thanks for checking on me!
 - :muscle: I'm currently learning AWS and Microsoft Azure with the goal of getting certified in as AWS solutions architect and Azure data engineer.
 
 **Programing Languages I am experienced in**
-- :point_right: Javascript - :point_right:Python - :point_right:Php
+- :point_right: Javascript 
+- :point_right:Python 
+- :point_right:Php
 
 #### Interested In :hearts:
 :white_check_mark: Software Engineering :white_check_mark: DevOps :white_check_mark: Data engineering :white_check_mark: Machine learning
