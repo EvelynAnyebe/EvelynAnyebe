@@ -4,15 +4,15 @@ Thanks for checking on me!
 
 - 🔭 I’m currently working in Hitech City Technologies with a brilliat team. We are developing an awesome web application.
 - ⚡ Here's a fun fact about me: If am not into computer science, I might have been in Business.
-- :muscle: I'm currently learning AWS and Microsoft Azure with the goal of getting certified in as AWS solutions architect and Azure data engineer.
+- 💪 I'm currently learning AWS and Microsoft Azure with the goal of getting certified in as AWS solutions architect and Azure data engineer.
 
 **Programing Languages I am experienced in**
-- :point_right: Javascript 
-- :point_right:Python 
-- :point_right:Php
+- 👉 Javascript 
+- 👉 Python 
+- 👉 PHP
 
-#### Interested In :hearts:
-:white_check_mark: Software Engineering :white_check_mark: DevOps :white_check_mark: Data engineering :white_check_mark: Machine learning
+#### Interested In 🥰
+✅ Software Engineering ✅ DevOps ✅ Data engineering ✅ Machine learning
 
 <!--
 **EvelynAnyebe/EvelynAnyebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
