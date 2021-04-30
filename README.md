@@ -2,9 +2,9 @@
 
 Thanks for checking on me! 
 
-- 🔭 I’m currently working in Hitech City Technologies with a brilliat team. We are developing an awesome web application.
-- ⚡ Here's a fun fact about me: If am not into computer science, I might have been in Business.
-- 💪 I'm currently learning AWS and Microsoft Azure with the goal of getting certified in as AWS solutions architect and Azure data engineer.
+- 🔭 I’m currently working in Hitech City Technologies with a brilliant team. We are developing an awesome web application.
+- ⚡ Here's a fun fact about me: Apart from computer science, I love business.
+- 💪 I am a result-oriented software engineer with experience in data science and data engineering, has experience of micro-services architectures for highly available, scalable, and fault tolerant applications.
 
 **Programing Languages I am experienced in**
 - 👉 Javascript 
