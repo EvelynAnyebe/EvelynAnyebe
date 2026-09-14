@@ -2,21 +2,17 @@
 
 Thanks for checking on me! 
 
-- 💪 I am a result-oriented software engineer with experience in data science and data engineering, has experience of micro-services architectures for highly available, scalable, and fault tolerant applications.
-- 🔭 I’m currently working in Hitech City Technologies with a brilliant team. We are developing an awesome web application.
-- 🌱 I’m actively learning. Part of my studies is Robotics and AI at University of Glasgow. My interest in software engineering made me think deeply about intelligent agents like smart assistants, conversational bots and intelligent software solutions for health, education, social life, commerce and agriculture. This defined my interest in AI. My career path still remains software engineering and I am actively involved in upskilling through courses on Udemy, Udacity among others. My plans for the future after my studies is to combine my educational background and experiences to develop intelligent software solution on any device be it on traditional computer devices like laptops and phones, wearables, robots or healthcare equiptments.
-- ⚡ Here's a fun fact about me: Apart from computer science, I love business.
+I’m a software engineer with 5+ years of experience designing and delivering web applications, APIs, and software solutions. 
 
+I have strong experience with Python, C#, JavaScript, Git, and Agile development, alongside stakeholder engagement and collaborative software delivery. I’m passionate about building innovative, effective solutions, learning new technologies, and helping others grow through mentoring and knowledge sharing.
 
-**Programing Languages I am experienced in**
-- 👉 Javascript 
-- 👉 Python 
-- 👉 PHP
-- 👉 C# 
-- 👉 C++
+💻 Python · C# · JavaScript
+🛠️ APIs · Web Applications · Git · Agile
+🤝 Collaboration · Mentoring · Knowledge Sharing
+🚀 Passionate about continuous learning and building useful technology
 
 #### Interested In 🥰
-✅ Software Engineering ✅ Data engineering ✅ Artificial Intelligence
+✅ Software Engineering ✅ Cloud computing and Data science/engineering ✅ Machine learning/Artificial Intelligence
 
 <!--
 **EvelynAnyebe/EvelynAnyebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
